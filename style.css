@@ -1,0 +1,83 @@
+.container1{
+    width: 100vw;
+    height: 100vh;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(196, 22, 22);
+    color: white;
+    
+}
+  .p1{
+    width: 100vw;
+   
+   background-color: rgb(105, 105, 151);
+  
+   
+   
+} 
+.container2{
+ padding: 2px;
+  background-color:plum;
+  height: 300px;
+
+}
+ 
+.project{
+  display: flex;
+  flex: column;
+  color:black;
+  
+    justify-content: space-between;
+
+}
+.Project1{
+    height: 100px;
+    width: 120px;
+    padding: 2px;
+    box-shadow: 4px 4px;
+    background-color: brown;
+}
+.Project2{
+    height: 100px;
+    width: 120px;
+    padding: 2px;
+    box-shadow: 4px 4px;
+    background-color: brown;
+}
+.Project3{
+    height: 100px;
+    width: 100px;
+    padding: 2px;
+    box-shadow: 4px 4px;
+    background-color: brown;
+ }
+
+.foot{
+    display: flex;
+    background-color: black;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+}
+#text{
+    margin-bottom: 30px;
+}
+button{
+    width: 65px;
+    height: 30px;
+    background-color: rgb(16, 115, 227);
+}
+button:hover{
+    background-color: brown;
+}
+.p1 ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+
+}
